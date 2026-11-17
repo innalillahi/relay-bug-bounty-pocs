@@ -1,0 +1,9 @@
+forge-std/=../../repos/relay-periphery/lib/forge-std/src/
+@openzeppelin/contracts/=../../repos/relay-periphery/lib/openzeppelin-contracts/contracts/
+solady/src/=../../repos/relay-periphery/lib/solady/src/
+solady/=../../repos/relay-depository/packages/ethereum-vm/lib/solady/src/
+relay-settlement/=../../repos/relay-settlement/smart-contracts/contracts/
+relay-depository/=../../repos/relay-depository/packages/ethereum-vm/src/
+relay-periphery/=../../repos/relay-periphery/src/
+permit2-relay/=../../repos/relay-periphery/lib/permit2-relay/
+trustlessPermit/=../../repos/relay-periphery/lib/trustlessPermit/
