@@ -1,0 +1,1 @@
+{"compilerOptions":{"baseUrl":"../../repos/relay-protocol-oracle","noUnusedLocals":false,"noUnusedParameters":false,"paths":{"*":["node_modules/*"]}},"extends":"../../repos/relay-protocol-oracle/tsconfig.json","include":["./**/*.ts"]}
